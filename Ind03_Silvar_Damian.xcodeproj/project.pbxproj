@@ -13,6 +13,9 @@
 		B63EDB872BBD13B5001C04D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B63EDB852BBD13B5001C04D3 /* Main.storyboard */; };
 		B63EDB892BBD13B7001C04D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B63EDB882BBD13B7001C04D3 /* Assets.xcassets */; };
 		B63EDB8C2BBD13B7001C04D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B63EDB8A2BBD13B7001C04D3 /* LaunchScreen.storyboard */; };
+		B63EDB942BBD1CA6001C04D3 /* DescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B63EDB932BBD1CA6001C04D3 /* DescriptionViewController.swift */; };
+		B6FEEA632BBE6D5100FA7A93 /* References.txt in Resources */ = {isa = PBXBuildFile; fileRef = B6FEEA622BBE6D5100FA7A93 /* References.txt */; };
+		B6FEEA652BBE6D5A00FA7A93 /* Swift.gitignore.txt in Resources */ = {isa = PBXBuildFile; fileRef = B6FEEA642BBE6D5A00FA7A93 /* Swift.gitignore.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		B63EDB882BBD13B7001C04D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B63EDB8B2BBD13B7001C04D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B63EDB8D2BBD13B7001C04D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B63EDB932BBD1CA6001C04D3 /* DescriptionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescriptionViewController.swift; sourceTree = "<group>"; };
+		B6FEEA622BBE6D5100FA7A93 /* References.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = References.txt; sourceTree = "<group>"; };
+		B6FEEA642BBE6D5A00FA7A93 /* Swift.gitignore.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Swift.gitignore.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,8 @@
 		B63EDB732BBD13B5001C04D3 = {
 			isa = PBXGroup;
 			children = (
+				B6FEEA642BBE6D5A00FA7A93 /* Swift.gitignore.txt */,
+				B6FEEA622BBE6D5100FA7A93 /* References.txt */,
 				B63EDB7E2BBD13B5001C04D3 /* test_Ind3 */,
 				B63EDB7D2BBD13B5001C04D3 /* Products */,
 			);
@@ -60,6 +68,7 @@
 				B63EDB812BBD13B5001C04D3 /* SceneDelegate.swift */,
 				B63EDB832BBD13B5001C04D3 /* ViewController.swift */,
 				B63EDB852BBD13B5001C04D3 /* Main.storyboard */,
+				B63EDB932BBD1CA6001C04D3 /* DescriptionViewController.swift */,
 				B63EDB882BBD13B7001C04D3 /* Assets.xcassets */,
 				B63EDB8A2BBD13B7001C04D3 /* LaunchScreen.storyboard */,
 				B63EDB8D2BBD13B7001C04D3 /* Info.plist */,
@@ -102,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B63EDB772BBD13B5001C04D3 /* Build configuration list for PBXProject "test_Ind3" */;
+			buildConfigurationList = B63EDB772BBD13B5001C04D3 /* Build configuration list for PBXProject "Ind03_Silvar_Damian" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,7 +136,9 @@
 			files = (
 				B63EDB8C2BBD13B7001C04D3 /* LaunchScreen.storyboard in Resources */,
 				B63EDB892BBD13B7001C04D3 /* Assets.xcassets in Resources */,
+				B6FEEA632BBE6D5100FA7A93 /* References.txt in Resources */,
 				B63EDB872BBD13B5001C04D3 /* Main.storyboard in Resources */,
+				B6FEEA652BBE6D5A00FA7A93 /* Swift.gitignore.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B63EDB842BBD13B5001C04D3 /* ViewController.swift in Sources */,
+				B63EDB942BBD1CA6001C04D3 /* DescriptionViewController.swift in Sources */,
 				B63EDB802BBD13B5001C04D3 /* AppDelegate.swift in Sources */,
 				B63EDB822BBD13B5001C04D3 /* SceneDelegate.swift in Sources */,
 			);
@@ -342,7 +354,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B63EDB772BBD13B5001C04D3 /* Build configuration list for PBXProject "test_Ind3" */ = {
+		B63EDB772BBD13B5001C04D3 /* Build configuration list for PBXProject "Ind03_Silvar_Damian" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B63EDB8E2BBD13B7001C04D3 /* Debug */,
