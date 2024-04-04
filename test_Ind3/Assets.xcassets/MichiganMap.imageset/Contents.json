@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "MichiganMap.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ArkansasMap.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

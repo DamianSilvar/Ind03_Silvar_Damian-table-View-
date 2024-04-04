@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "NorthDakotaMap.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
